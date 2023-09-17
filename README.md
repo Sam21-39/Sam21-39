@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on <a href="https://github.com/Sam21-39?tab=repositories" target='_blank'>Different Flutter And Node JS Projects</a>
 
 - 🌱 I’m currently learning <p align="left"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/31897843/217845065-ed6c6f94-78e6-4054-938d-110cda59a679.png" alt="react" width="40" height="40"/> 
-   <a href="https://nodejs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
+   <a href="https://nodejs.dev/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> </a>
 </p>
 <!-- - 👯 I’m looking to collaborate on ... -->
