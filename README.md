@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about anything related *Mobile App Development*
 
-- 📫 How to reach me: **sumit.spofficial223@gmail.com**
+- 📫 How to reach me: **sumitp.dev@gmail.com**
 
 - 😄 Pronouns: He
 
