@@ -1,5 +1,13 @@
 <div align="center">
 
+<a href="https://appamania.in">
+  <img src="assets/sumit-pal-banner.png" alt="Sumit Pal — Senior Mobile Developer, Flutter Engineer, and Indie App & Game Builder. Appamania." width="100%">
+</a>
+
+<br>
+
+<img src="assets/sumit-pal-portrait.jpg" alt="Portrait of Sumit Pal" width="160">
+
 # SUMIT PAL
 
 ### Senior Mobile Developer · Flutter & Dart
