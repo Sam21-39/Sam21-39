@@ -40,7 +40,27 @@ mobile experiences and exploring the systems behind them.
 
 ## Selected work
 
-Four projects from my public repositories. Open a project below to explore.
+Selected apps and developer tools from my public repositories. Open a project below to explore.
+
+### ⏰ Memō · Featured app
+
+An offline reminder app with typed or spoken capture, read-aloud reminders,
+and native alarm integration.
+
+**Flutter · Dart · BLoC / Cubit · SQLite · Kotlin · iOS AlarmKit**
+
+[Explore the repository →](https://github.com/Sam21-39/memo)
+
+<details>
+<summary><strong>Why I'm featuring it</strong></summary>
+
+- Capture reminders by typing or speaking.
+- On-device speech recognition and voice generation.
+- Repeating reminders, snooze, and follow-up alarms.
+- Native Android alarms and AlarmKit integration on supported iOS versions.
+- Local storage, with no account or cloud required.
+
+</details>
 
 ### 💸 Spend Analytics / SpendSense
 
@@ -105,6 +125,23 @@ configurations at runtime, with tooling for environment setup and validation.
 
 Visit the repository for current capabilities, setup instructions,
 and release details.
+
+</details>
+
+### 📐 ScreenX
+
+A responsive layout package for Flutter with adaptive breakpoints,
+scalable units, and layout builders for Android, iOS, and web.
+
+**Flutter · Dart · Responsive UI**
+
+[Explore the repository →](https://github.com/Sam21-39/screenx)
+
+<details>
+<summary><strong>Built for different screens</strong></summary>
+
+ScreenX centralizes responsive configuration with five breakpoint tiers,
+screen-relative sizing, and builders for mobile, tablet, and desktop layouts.
 
 </details>
 
