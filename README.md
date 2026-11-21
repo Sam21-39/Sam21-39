@@ -34,8 +34,8 @@ reminders, and tools for fellow developers. I enjoy turning ideas into
 mobile experiences and exploring the systems behind them.
 
 - 📱 My primary focus is **mobile app development with Flutter and Dart**.
-- 🛠️ I also work on **Node.js projects**.
-- 🌱 My learning interests include **React, Node.js, and Express**.
+- 🛠️ My current stack also includes **Node.js, Express.js, NestJS, and Next.js**.
+- 🗄️ I work with **Firebase, Supabase, PostgreSQL, Neon Postgres, and Vercel**.
 - 🎮 Outside development, I enjoy **FPS and strategy games**.
 
 ## Selected work
@@ -110,20 +110,46 @@ and release details.
 
 ## The toolkit
 
+### Mobile
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Backend & web
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Data & deployment
+
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3D5A45?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neon Postgres](https://img.shields.io/badge/Neon%20Postgres-164C42?style=for-the-badge&logo=neon&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Editor & everyday tools
+
+**VS Code** is my main editor, with Claude and other coding extensions.
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+## AI in my workflow
+
+**Claude and ChatGPT** are my primary AI tools for development.
+
+![Claude](https://img.shields.io/badge/Claude-9B563C?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-116149?style=for-the-badge)
+![Codex](https://img.shields.io/badge/Codex-202020?style=for-the-badge)
+
 <details>
-<summary><strong>What I'm exploring</strong></summary>
+<summary><strong>More tools I use</strong></summary>
 
-<br>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+Alongside Claude and ChatGPT, I also use **Codex** and **Antigravity / Gemini CLI**.
 
 </details>
 
